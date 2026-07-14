@@ -68,7 +68,7 @@ README.md
 prompts.md
 prompt_logic.md
 website_copy.md
-screenshots/
+
 ```
 
 ---
