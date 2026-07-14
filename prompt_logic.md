@@ -63,6 +63,18 @@ The desired tone is:
 This creates engaging and persuasive website copy.
 
 ---
+## Prompt Adaptability
+
+Although this project focuses on a gym, the same prompt framework can be adapted for other local businesses such as salons, cafés, clinics, travel agencies, or digital marketing agencies by modifying:
+
+- Business name
+- Industry
+- Target audience
+- Services
+- Tone of voice
+- Website goals
+
+This demonstrates the flexibility and reusability of structured prompt engineering across different business domains.
 
 ## Benefits of This Prompt
 
