@@ -121,5 +121,15 @@ Yes. Our fitness experts provide nutrition advice to support your health and fit
 Take the first step toward a healthier and stronger version of yourself.
 
 ### Join Natural Fitness Center today and experience professional training, a motivating community, and results that last.
+# Contact Us
 
+📍 **Address:** Natural Fitness Center, Madhapur, Hyderabad, Telangana
+
+📞 **Phone:** +91 XXXXXXXXXX
+
+📧 **Email:** info@naturalfitnesscenter.com
+
+🌐 **Website:** www.naturalfitnesscenter.com
+
+### Visit us today or contact our team to schedule your free trial and begin your fitness journey.
 **Book Your Free Trial Today!**
